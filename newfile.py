@@ -4,3 +4,5 @@ print("ok")
 # new is added in same file in local 
 
 print("this is in f1 branch")
+
+print("again added on local before remote merge")
